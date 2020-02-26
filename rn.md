@@ -1,4 +1,4 @@
-# React-native一些命令
+# React-native
 
 ```
 npm i react-native -g  全局安装react-native
