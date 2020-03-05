@@ -28,6 +28,8 @@ BRANCH gh-pages
 GH_REF github.com/{用户名}/{仓库名}
 ```
 ```
-git credential-manager remove | uninstall 本地git用户
-git config --global credential.helper wincred 全部git用户删除
+git config user.name
+git config --global user.name 'litiegen'
+git config user.email
+git config --global user.email '517206296@qq.com'
 ```
