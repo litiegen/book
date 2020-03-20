@@ -23,9 +23,9 @@ git checkout master 切换目录
 travis-ci配置信息
 USER_NAME litiegen
 USER_EMAIL 517206296@qq.com
-ACC_TOKEN github上查询
+ACC_TOKEN github上查询 d534d09dc09f9c2143d5626709f28e2814917622
 BRANCH gh-pages
-GH_REF github.com/{用户名}/{仓库名}
+GH_REF github.com/litiegen/{仓库名}
 ```
 ```
 git config user.name
