@@ -1,0 +1,22 @@
+{
+  "name": "book",
+  "version": "1.0.0",
+  "description": "这是gitbook制作的电子书",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/litiegen/book.git"
+  },
+  "author": "litiegen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/litiegen/book/issues"
+  },
+  "homepage": "https://github.com/litiegen/book#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
