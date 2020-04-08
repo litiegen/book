@@ -10,3 +10,5 @@ vscode不能运行
 get-ExecutionPolicy
 get-ExecutionPolicy RemoteSigned
 ```
+
+好像出问题了
